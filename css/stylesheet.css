@@ -1,0 +1,17 @@
+body {
+    font-size: 20px;
+    font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+    background-color: CornSilk;
+}
+
+section {
+    padding: 3rem;
+}
+
+h1 {
+    letter-spacing: 1px;
+}
+
+figure {
+    margin-top: 3rem;
+}
